@@ -1,4 +1,4 @@
-export const API_KEY = 'AIzaSyBTNHNqnyxzgZm472swc99mcr72f-SUGKs'
+export const API_KEY = ''
 
 
 export const value_converter = (value)=>{
