@@ -1,0 +1,29 @@
+.main-container
+{
+  display: flex;
+}
+.container
+{
+  width:95%;
+  padding: 20px 30px;
+  background: #f9f9f9;
+  height: 100vh;
+  padding-top:30px;
+  margin-left:100px;
+}
+.small-container
+{
+  width: 80%;
+  margin-left:280px;
+  margin-top:26px;
+}
+
+@media(max-width:900px)
+{
+  .small-container .container{
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+
+}
